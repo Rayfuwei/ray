@@ -1,4 +1,4 @@
-package com.bzl.robot.mqconfig;
+package com.rocketmq.demo.mqconfig;
 
 import org.apache.rocketmq.client.consumer.listener.ConsumeConcurrentlyContext;
 import org.apache.rocketmq.client.consumer.listener.ConsumeConcurrentlyStatus;

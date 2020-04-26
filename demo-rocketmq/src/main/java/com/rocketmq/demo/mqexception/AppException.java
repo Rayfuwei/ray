@@ -1,4 +1,4 @@
-package com.bzl.robot.mqexception;
+package com.rocketmq.demo.mqexception;
 
 public class AppException extends RuntimeException {
 

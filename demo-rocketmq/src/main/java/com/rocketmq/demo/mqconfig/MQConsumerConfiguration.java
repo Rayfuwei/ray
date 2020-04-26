@@ -1,7 +1,7 @@
-package com.bzl.robot.mqconfig;
+package com.rocketmq.demo.mqconfig;
 
-import com.bzl.robot.mqexception.RocketMQErrorEnum;
-import com.bzl.robot.mqexception.RocketMQException;
+import com.rocketmq.demo.mqexception.RocketMQErrorEnum;
+import com.rocketmq.demo.mqexception.RocketMQException;
 import org.apache.commons.lang3.StringUtils;
 import org.apache.rocketmq.client.consumer.DefaultMQPushConsumer;
 import org.apache.rocketmq.common.consumer.ConsumeFromWhere;
