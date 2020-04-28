@@ -7,7 +7,7 @@ import org.springframework.data.elasticsearch.annotations.FieldType;
 
 import java.io.Serializable;
 
-@Document(indexName = "item",type = "_doc", shards = 1, replicas = 0)
+@Document(indexName = "item",type = "phone", shards = 1, replicas = 0)
 public class Item implements Serializable {
 
     /**
